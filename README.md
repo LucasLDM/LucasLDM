@@ -24,10 +24,7 @@
 ##
 
 <div>
-  <a href="mailto:lucasldm2022@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  <a href="https://www.hackerrank.com/LucasLDM?hr_r=1" target="_blank"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" target="_blank" width="87px" height="28px">
- 
-
-
+  <a href="mailto:lucasldm2022@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 
