@@ -4,7 +4,6 @@
 - ![icons8-triforce-20](https://user-images.githubusercontent.com/109696278/209585358-2b02a4e5-eb9a-4c6f-8e7f-32e4a4eb950d.png)
  Estudando Java e a TRIFORCE do Front-End: HTML, CSS e JavaScript.
 - 📫 Entre em contato comigo: lucasldm2022@gmail.com
-- 😄 Pronouns: ele/dele
 
 
 <div align="center">
