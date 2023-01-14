@@ -5,12 +5,7 @@
  Estudando Java e a TRIFORCE do Front-End: HTML, CSS e JavaScript.
 - 📫 Entre em contato comigo: lucasldm2022@gmail.com
 
-
-<div align="center">
-  <a href="https://github.com/lucasLDM">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasLDM&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLDM&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LucasLDM&theme=material-palenight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <div style="display: inline_block"><br>    
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
