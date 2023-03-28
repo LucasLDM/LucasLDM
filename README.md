@@ -1,8 +1,7 @@
 # Olá, meu nome é Lucas! 👋
 
 - 🔭 No momento estou estudando para aprimorar cada vez mais meus conhecimentos na área de TI!
-- ![icons8-triforce-20](https://user-images.githubusercontent.com/109696278/209585358-2b02a4e5-eb9a-4c6f-8e7f-32e4a4eb950d.png)
- Estudando Java e a TRIFORCE do Front-End: HTML, CSS e JavaScript.
+- :books: Atualmente focando os estudos em Java, PHP e Banco de Dados.
 - 📫 Entre em contato comigo: lucasldm2022@gmail.com
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LucasLDM&theme=material-palenight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
