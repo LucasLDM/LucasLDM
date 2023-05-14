@@ -1,16 +1,13 @@
 # Olá, meu nome é Lucas! 👋
 
 - 🔭 No momento estou estudando para aprimorar cada vez mais meus conhecimentos na área de TI!
-- :books: Atualmente focando os estudos em Java, PHP e Banco de Dados.
+- :books: Atualmente focando os estudos PHP e estou partindo para o Laravel!
 - 📫 Entre em contato comigo: lucasldm2022@gmail.com
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LucasLDM&theme=material-palenight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <div style="display: inline_block"><br>    
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="Lucas-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
