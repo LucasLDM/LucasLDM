@@ -1,7 +1,7 @@
 # Olá, meu nome é Lucas! 👋
 
 - 🔭 No momento estou estudando para aprimorar cada vez mais meus conhecimentos na área de TI!
-- :books: Atualmente focando os estudos PHP e estou partindo para o Laravel!
+- :books: Atualmente estou focando os estudos no PHP e logo estarei partindo para o Laravel!
 - 📫 Entre em contato comigo: lucasldm2022@gmail.com
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LucasLDM&theme=material-palenight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
