@@ -1,14 +1,15 @@
 # Olá, meu nome é Lucas! 👋
 
 - 🔭 No momento estou estudando para aprimorar cada vez mais meus conhecimentos na área de TI!
-- :books: Atualmente estou focando os estudos no PHP e logo estarei partindo para o Laravel!
+- :books: Atualmente estou focando os estudos em Python e pretendo conhecer o Django e Flask.
 - 📫 Entre em contato comigo: lucasldm2022@gmail.com
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LucasLDM&theme=material-palenight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <div style="display: inline_block"><br>    
-  <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Lucas-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  
 </div>
 
 ##
